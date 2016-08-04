@@ -1,0 +1,6 @@
+# Intermediate files created by Latex/Gregorio
+*.tex
+*.gtex
+*.aux
+*.gz
+*.log
