@@ -1,0 +1,12 @@
+% !TEX TS-program = LuaLaTeX+se
+% !TEX root = main-lualatex.tex
+
+initial-style: 0;
+centering-scheme: english;
+
+
+%%
+(f3) <alt>Ant.</alt>({cr}e) (fh) (h.) (gr1.) (f) (hr1.) (:)
+(h.) (gr1.) (fr1.) (::)
+<alt>Ps.</alt>({cr}h.) (hr1.) (i) (gr1.) (:)
+(h.) (gr1.) (fr1.) (::)
